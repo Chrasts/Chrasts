@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## I can't really do basic arithmetic without a calculator, but I can prove that arithmetic is incomplete and undecidable.
 <!--
 **Chrasts/Chrasts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
