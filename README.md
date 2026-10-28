@@ -1,3 +1,5 @@
+<img src="./assets/a18-arol-banner.svg" alt="Hasse diagram of A18 with A-ROL equations and a counterexample to the central-core identity" width="100%">
+
 ## I can't really do basic arithmetic without a calculator, but I can prove that arithmetic is incomplete and undecidable.
 <!--
 **Chrasts/Chrasts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
